@@ -1,4 +1,3 @@
-
 import streamlit as st
 
 st.set_page_config(
@@ -7,5 +6,5 @@ st.set_page_config(
     layout="centered"
 )
 
-st.title("Welcome to the Multi-Page App!")
-st.write("Please select a page from the sidebar to navigate.")
+st.title("Selamat Datang")
+
